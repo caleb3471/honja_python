@@ -8,7 +8,6 @@ list_4 = [i for i in list_q if i==4]
 dict_al = {
     1 : len(list_1),
     2 : len(list_2),
-    3 : len(list_3),
     4 : len(list_4)
 }
 
